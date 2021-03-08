@@ -10,3 +10,6 @@ Button A is used to increase the step and the count values.
 Button B is used to dencrease the step and the count values.  
 Button A+B is used to move from step to counter to start phases.    
 Shake is used to reset the counter  
+
+### Distance Checker (V1+)  
+The when two (or more) Micro:BIT are too close an X symbol is shown on the LED display.  
