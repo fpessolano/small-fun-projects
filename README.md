@@ -2,7 +2,7 @@
 This is a collection of projects of various complexity for kids for various platforms.  
 
 ## BBC Micro:BIT  
-In the folder microbit there are the wollogin projects for the Micro:BBT (v1 and v2):  
+In the folder microbit there are the projects for the Micro:BBT (v1 and v2):  
 
 ### Programmable Counter (V1+)  
 A start stop counter where the count down step can be programmed as well as the counted value.  
