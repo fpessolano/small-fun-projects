@@ -1,5 +1,5 @@
-# Kids projects
-This is a collection of small fun projects some made for personal fun, some for my kids and some just fixing third-party code.  
+# Fun projects
+This is an heterogeneous collection of small fun projects some made for personal fun, some for my kids and some just fixing third-party code.  
 
 ## BBC Micro:BIT  
 In the folder microbit there are the projects for the Micro:BBT (v1 and v2):  
