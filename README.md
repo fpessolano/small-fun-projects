@@ -1,5 +1,5 @@
 # Kids projects
-This is a collection of projects of various complexity for kids for various platforms.  
+This is a collection of small fun projects some made for personal fun, some for my kids and some just fixing third-party code.  
 
 ## BBC Micro:BIT  
 In the folder microbit there are the projects for the Micro:BBT (v1 and v2):  
@@ -14,3 +14,6 @@ This project needs the Kitronik :VIEW text32 add-on.
 
 ### Distance Checker (V1+)  
 The when two (or more) Micro:BIT are too close an X symbol is shown on the LED display.  
+
+## WIO TERMINAL  
+In the folder wio there are the projects for the Wio Terminal:  
