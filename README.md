@@ -20,3 +20,6 @@ In the folder 'wio' there are the projects for the Wio Terminal:
 
 ### MLX9064x  
 This folder includes sketches for usage of the MLX90640/1 groove sensors.  
+
+### sd_card  
+This folder includes sketches for usage of sd card reader.  
